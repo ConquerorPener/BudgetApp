@@ -28,7 +28,7 @@
     </scm>
     <properties>
         <java.version>21</java.version>
-        <sonar.organization>conquerorpener-budgetapp</sonar.organization>
+        <sonar.organization>conquerorpener</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
     <dependencies>
